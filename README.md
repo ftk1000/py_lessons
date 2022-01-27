@@ -7,7 +7,8 @@
 * [Course page](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists)
 * [Schedule](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.i0l78w4pcjz0)
 
-
+---
+* [Participant Perceptions of Twitter Research Ethics](https://mail.google.com/mail/u/0/#inbox/WhctKKXPdgxQJPWpWvJbFlPDLZCpNCTjFZCSLcxqdxqkLRPfbNvWrzmjzZnZPBPZcgtnTbB?projector=1&messagePartId=0.1)
 
 ---
 
