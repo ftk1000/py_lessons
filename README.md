@@ -4,7 +4,7 @@
 
 
 * [Dinara's class](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.10dt4bwiiefs)
-* 
+* [Course page](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists)
 ---
 
 
