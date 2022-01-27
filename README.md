@@ -2,7 +2,7 @@
 
 2022.01.24
 
-
+# [Katrin Erk](https://www.katrinerk.com/home)
 * [Dinara's class](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.10dt4bwiiefs)
 * [Course page](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists)
 * [Schedule](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.i0l78w4pcjz0)
