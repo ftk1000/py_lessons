@@ -2,6 +2,9 @@
 
 2022.01.24
 
+
+* [Dinara's class](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.10dt4bwiiefs)
+* 
 ---
 
 
