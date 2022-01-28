@@ -1,4 +1,4 @@
-# Py Excercises
+# Py Excercises for 2022.01.28
 
 1) Write a function computing distance between two points A=[1,4] and B=[-3,7]
 
