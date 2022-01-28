@@ -1,4 +1,9 @@
+# Py homework
+
+* [2022.01.28 Excercises](py_excercises.md) 
+
 # py_lessons
+
 
 2022.01.24
 
