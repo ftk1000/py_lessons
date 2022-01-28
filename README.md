@@ -11,6 +11,9 @@
 * [Participant Perceptions of Twitter Research Ethics](https://mail.google.com/mail/u/0/#inbox/WhctKKXPdgxQJPWpWvJbFlPDLZCpNCTjFZCSLcxqdxqkLRPfbNvWrzmjzZnZPBPZcgtnTbB?projector=1&messagePartId=0.1)
 * [Reading List](https://www.cs.utexas.edu/~ml/nll/)
 * [Code and Named Entity Recognition in StackOverflow, Jeniya Tabassum, Mounica Maddela, Wei Xu, Alan Ritter](https://arxiv.org/abs/2005.01634)
+
+# [Other Py Classes](python_classes.md)
+
 ---
 
 
