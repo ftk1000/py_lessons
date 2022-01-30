@@ -1,12 +1,14 @@
-# Py homework
+# py_lessons 2022.01.24
 
+# Learn Python
+* [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+* [Py Classes](python_classes.md)
+
+
+# Py homework
 * [2022.01.28 Excercises](py_excercises.md) 
 
-# py_lessons
-
-
-2022.01.24
-
+### UT Austin
 # [Katrin Erk](https://www.katrinerk.com/home)
 * [Dinara's class](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists#h.10dt4bwiiefs)
 * [Course page](https://www.katrinerk.com/courses/analyzing-linguistic-data-and-programming-for-linguists)
@@ -17,7 +19,6 @@
 * [Reading List](https://www.cs.utexas.edu/~ml/nll/)
 * [Code and Named Entity Recognition in StackOverflow, Jeniya Tabassum, Mounica Maddela, Wei Xu, Alan Ritter](https://arxiv.org/abs/2005.01634)
 
-# [Other Py Classes](python_classes.md)
 
 ---
 
