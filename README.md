@@ -1,9 +1,12 @@
 # py_lessons 2022.01.24
+* [local_lessons](https://github.com/ftk1000/py_lessons/)
 
 # Learn Python
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Py Classes](python_classes.md)
-
+* [Kids Book: Help your kids with computer coding](http://library.lol/main/72D218A7A73C4D4ABC7BE582EBD85385)
+  * start from page 86
+  * do project-4 on page 96 (Ghost Game). Type code in JN, run, and explain each step. Try to modify the game.  
 
 # Py homework
 * [2022.01.28 Excercises](py_excercises.md) 
