@@ -29,5 +29,7 @@
                 # write your code here
                 
                 
+4) Code this game and explain it
  
+![ghost_game.png](ghost_game.png)
     
