@@ -1,5 +1,7 @@
 # py_lessons 2022.01.24
 * [local_lessons](https://github.com/ftk1000/py_lessons/)
+* [10 NLP Projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
+* [beginner_projects.md](beginner_projects.md)
 
 # Learn Python
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
