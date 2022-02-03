@@ -35,6 +35,5 @@
  #ghost_game.png
 
 5) Read pages 110-131. Makes notes if you see anything new and would like to discuss.
-Code project 5 on pages 132-133, make sure it runs, and explain it.   
-Here is the book if you have not downloaded it yet [Kids Book: Help your kids with computer coding](http://library.lol/main/72D218A7A73C4D4ABC7BE582EBD85385)
+Code project 5 on pages 132-133, make sure it runs, and explain it.   Here is the book if you have not downloaded it yet [Kids Book: Help your kids with computer coding](http://library.lol/main/72D218A7A73C4D4ABC7BE582EBD85385)
     
