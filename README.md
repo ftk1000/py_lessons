@@ -1,5 +1,5 @@
 # py_lessons 2022.01.24
-* [local_lessons](https://github.com/ftk1000/py_lessons/)
+* local_lessons: [001](farid_lesson_001.ipynb), [002](farid_lesson_002.ipynb), [003](farid_lesson_003.ipynb)
 * [10 NLP Projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
 * [beginner_projects.md](beginner_projects.md)
 
