@@ -12,8 +12,13 @@
   * do project-4 on page 96 (Ghost Game). Type code in JN, run, and explain each step. Try to modify the game.  
 * [Py Classes](python_classes.md)
 
-# Py homework
+# Py homework 
 * [2022.01.28 Excercises](py_excercises.md) 
+
+# NLP Exercises
+* [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
+* [Getting started with text analysis in Python. A pragmatic step-by-step tutorial for data analysts who are stuck with Excel for text analysis](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
+* [Text Analysis in Python 3](https://www.geeksforgeeks.org/text-analysis-in-python-3/)
 
 ### UT Austin
 * [Katrin Erk](https://www.katrinerk.com/home)
