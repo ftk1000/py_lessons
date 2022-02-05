@@ -32,8 +32,9 @@
 * [Code and Named Entity Recognition in StackOverflow, Jeniya Tabassum, Mounica Maddela, Wei Xu, Alan Ritter](https://arxiv.org/abs/2005.01634)
 
 # Money 
-* Money is evidence that we can serve the most people in the best way
+
 * [Thou Shall Prosper: Ten Commandments for Making Money](http://library.lol/main/F9438613753E40A8E7DC776CCA8AF2D8)
+  * Money is evidence that we can serve the most people in the best way
 * [Why Are So Many Jews Rich? (with R' Daniel Lapin) | KOSHER MONEY Episode 16](https://www.youtube.com/watch?v=6sFmHSDepW8)
 
 
