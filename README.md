@@ -7,9 +7,6 @@
 
 # Learn Python
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-* [Kids Book: Help your kids with computer coding](http://library.lol/main/72D218A7A73C4D4ABC7BE582EBD85385)
-  * start from page 86
-  * do project-4 on page 96 (Ghost Game). Type code in JN, run, and explain each step. Try to modify the game.  
 * [Py Classes](python_classes.md)
 
 # Py homework 
@@ -19,6 +16,10 @@
 * [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
 * [Getting started with text analysis in Python. A pragmatic step-by-step tutorial for data analysts who are stuck with Excel for text analysis](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
 * [Text Analysis in Python 3](https://www.geeksforgeeks.org/text-analysis-in-python-3/)
+
+# Books
+* [The ANSI C Programming Language, Brian W. Kernighan, Dennis M. Ritchie](http://library.lol/main/556E6BEE561B776C95C6872C441BAAD1)
+* [Kids Book: Help your kids with computer coding](http://library.lol/main/72D218A7A73C4D4ABC7BE582EBD85385)
 
 ### UT Austin
 * [Katrin Erk](https://www.katrinerk.com/home)
