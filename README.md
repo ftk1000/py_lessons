@@ -1,16 +1,16 @@
 # py_lessons 2022.01.24
-* local_lessons: [001](farid_lesson_001.ipynb), [002](farid_lesson_002.ipynb), [003](farid_lesson_003.ipynb)
+* Jupyter Notebooks lessons: [001](farid_lesson_001.ipynb), [002](farid_lesson_002.ipynb), [003](farid_lesson_003.ipynb)
 * [10 NLP Projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
 * [beginner_projects.md](beginner_projects.md)
 * [https://neptune.ai/blog/10-nlp-projects](https://neptune.ai/blog/10-nlp-projects)
   * [text-summarizer](https://github.com/edubey/text-summarizer/commit/2458c2f515af62d74a12b03fa4b9d65b88f970d8) 
 
+# Py homework 
+* [Excercises](py_excercises.md) 
+
 # Learn Python
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Py Classes](python_classes.md)
-
-# Py homework 
-* [2022.01.28 Excercises](py_excercises.md) 
 
 # NLP Exercises
 * [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
