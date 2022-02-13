@@ -12,7 +12,8 @@
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Py Classes](python_classes.md)
 
-# NLP Exercises
+# NLP Tutorials and Exercises
+* [NLP_with_TensorFlow.md](nlp_with_tf.md)
 * [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
 * [Getting started with text analysis in Python. A pragmatic step-by-step tutorial for data analysts who are stuck with Excel for text analysis](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
 * [Text Analysis in Python 3](https://www.geeksforgeeks.org/text-analysis-in-python-3/)
