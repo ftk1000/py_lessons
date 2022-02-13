@@ -13,6 +13,6 @@
 
 
 
-## NLP with TF2
+## [NLP with TF2 with code on github](https://github.com/python-engineer/tensorflow-course)
 * [2020: YT: TensorFlow Tutorial 11 - Text Classification - NLP Tutorial](https://www.youtube.com/watch?v=kxeyoyrf2cM)
 * [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
