@@ -11,5 +11,8 @@
 5. [Long Short-Term Memory for NLP](https://www.youtube.com/watch?v=A9QVYOBjZdY); NLP Zero to Hero [playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 
 
+
+
 ## NLP with TF2
+* [2020: YT: TensorFlow Tutorial 11 - Text Classification - NLP Tutorial](https://www.youtube.com/watch?v=kxeyoyrf2cM)
 * [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
