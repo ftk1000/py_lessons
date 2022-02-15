@@ -25,7 +25,7 @@
 # More TF mini lessons
 * [Recommendation systems overview](https://youtu.be/BthUPVwA59s)
 * [Get started with using TensorFlow to solve for regression problems](https://youtu.be/-vHQub0NXI4)
-* [Intro to Machine Learning (ML Zero to Hero - Part 1)](https://youtu.be/KNAWp2S3w94)
+* [Intro to Machine Learning (ML Zero to Hero - Part 1)](https://youtu.be/KNAWp2S3w94) and here is [code](https://developers.google.com/codelabs/tensorflow-1-helloworld#0)
 * []()
 * []()
 * []()
