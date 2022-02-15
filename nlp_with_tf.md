@@ -22,7 +22,7 @@
 * 30M s/w developers, only 0.3M AI practitioners. Goal make is 10x --> 3M AI practitioners
 
 
-# More TF mini lessons
+# [Lots More TF mini lessons](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
 * [Recommendation systems overview](https://youtu.be/BthUPVwA59s)
 * [Get started with using TensorFlow to solve for regression problems](https://youtu.be/-vHQub0NXI4)
 * [Intro to Machine Learning (ML Zero to Hero - Part 1)](https://youtu.be/KNAWp2S3w94) and here is [code](https://developers.google.com/codelabs/tensorflow-1-helloworld#0)
