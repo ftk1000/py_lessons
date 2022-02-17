@@ -45,10 +45,11 @@
 - K-Nearest Neighbors
 - Decision Tree
 - Random Forest
-- XGBoost
-- Support Vector Machines
+- XGBoost (Extreme Gradient Boosting)
+- SVM (Support Vector Machines)
 - Dense Neural Nets
-- Convoluaitonal Neural Nets
-- LSTM (Long-Short Term Memory)
-- [RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
-- Bidirectional Encoder Representations from Transformers (BERT)
+- CNN (Convoluaitonal Neural Nets)
+- LSTM (Long-Short Term Memory) Network
+- [RNN (Recurrent Neural Network)](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+- BERT (Bidirectional Encoder Representations from Transformer)
+
