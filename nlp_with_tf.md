@@ -32,3 +32,22 @@
 * []()
 * []()
 * 
+
+
+
+
+
+# Sentence Classification Algorithms (see [monkeylearn.com/classification-algorithms](https://monkeylearn.com/blog/classification-algorithms/))
+
+- Logistic Regression
+- Naive Bayes
+- K-Nearest Neighbors
+- Decision Tree
+- Random Forest
+- XGBoost
+- Support Vector Machines
+- Dense Neural Nets
+- Convoluaitonal Neural Nets
+- LSTM (Long-Short Term Memory)
+- [RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+- Bidirectional Encoder Representations from Transformers (BERT)
