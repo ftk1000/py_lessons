@@ -37,7 +37,8 @@
 
 
 
-# Sentence Classification Algorithms (see [monkeylearn.com/classification-algorithms](https://monkeylearn.com/blog/classification-algorithms/))
+# Sentence Classification Algorithms 
+### [monkeylearn.com/classification-algorithms](https://monkeylearn.com/blog/classification-algorithms/)
 
 - Logistic Regression
 - Naive Bayes
