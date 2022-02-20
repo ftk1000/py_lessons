@@ -29,8 +29,12 @@
 * []()
 * []()
 
-## Reinforcement learning with TensorFlow Agents
-* [2022: Wei Wei: Build a board game app with policy gradient (Reinforcement learning with TensorFlow Agents)](https://www.youtube.com/watch?v=X4eruXqNbDc)
+## [Reinforcement learning with TensorFlow Agents](https://www.tensorflow.org/agents)
+* [2022: Wei Wei: Build a board game app with policy gradient](https://www.youtube.com/watch?v=X4eruXqNbDc)
+* [Introduction to TF Agents and Deep Q Learning](https://www.youtube.com/watch?v=2nKD6zFQ8xI)
+* []()
+* []()
+* []()
 * []()
 * []()
 
