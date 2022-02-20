@@ -28,10 +28,11 @@
 * [Intro to Machine Learning (ML Zero to Hero - Part 1)](https://youtu.be/KNAWp2S3w94) and here is [code](https://developers.google.com/codelabs/tensorflow-1-helloworld#0)
 * []()
 * []()
+
+## Reinforcement learning with TensorFlow Agents
+* [2022: Wei Wei: Build a board game app with policy gradient (Reinforcement learning with TensorFlow Agents)](https://www.youtube.com/watch?v=X4eruXqNbDc)
 * []()
 * []()
-* []()
-* 
 
 
 
