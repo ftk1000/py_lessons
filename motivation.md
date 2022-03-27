@@ -14,6 +14,7 @@
 
 1. [Основы математики для цифровых профессий](https://practicum.yandex.ru/math-foundations/)
     * [обучение](https://passport.yandex.ru/auth?retpath=https%3A%2F%2Fpracticum.yandex.ru%2Fmath-foundations%2F&origin=praktikum)
+    * [Веб-разработчик плюс - Практикум Карта курса - Python-разработчик](https://code.s3.yandex.net/backend-developer/learning-materials/syllabus/Python%2001.pdf)
 2. [ШАД Учебник и онлайн-курсы](https://academy.yandex.ru/dataschool/online) 
     * Если вы только начинаете знакомиться с анализом данных, то мы рекомендуем пройти [бесплатный вводный курс в Яндекс Практикуме.](https://practicum.yandex.ru/)
     * На курсе вы поймёте, что представляет собой анализ данных, какие процессы он в себя включает и чем занимается аналитик. 
