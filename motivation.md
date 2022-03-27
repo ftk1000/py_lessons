@@ -6,8 +6,8 @@
 * []()
 * []()
 
-# [Yandex](https://academy.yandex.ru/dataschool/online) 
-
+# [Yandex - Яндекс Практикум](https://practicum.yandex.ru/) 
+* [Основы математики для цифровых профессий](https://practicum.yandex.ru/math-foundations/)
 * [ШАД Учебник и онлайн-курсы](https://academy.yandex.ru/dataschool/online) 
   * Если вы только начинаете знакомиться с анализом данных, то мы рекомендуем пройти [бесплатный вводный курс в Яндекс Практикуме.](https://practicum.yandex.ru/)
   * На курсе вы поймёте, что представляет собой анализ данных, какие процессы он в себя включает и чем занимается аналитик. 
