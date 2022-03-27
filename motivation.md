@@ -4,6 +4,9 @@
   * Я поищу базовые курсы онлайн. В какой-то момент Нужен будет хороший компьютер с нормальным экраном.
 * [Тоже самое](https://www.education.ua/ru/articles/774/)
 * []()
+
+# Питон с нуля
+* [YT: 2020: Python с нуля. Урок 1 | Первая программа. Переменные](https://www.youtube.com/watch?v=LFCq-mNF96c&list=PLs2IpQwiXpT3SqbqPzLCEy1fow9G7g0oY)
 * []()
 
 # [Yandex - Яндекс Практикум](https://practicum.yandex.ru/) 
