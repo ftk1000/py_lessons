@@ -7,6 +7,7 @@
 
 # Питон с нуля
 * [YT: 2020: Python с нуля. Урок 1 | Первая программа. Переменные](https://www.youtube.com/watch?v=LFCq-mNF96c&list=PLs2IpQwiXpT3SqbqPzLCEy1fow9G7g0oY)
+* [TM: Здесь есть всё, чтобы упростить вам изучение Python. Без воды и сложных терминов. Сотрудничество: @justcage](https://t.me/pythonist24)
 * []()
 
 # [Yandex - Яндекс Практикум](https://practicum.yandex.ru/) 
