@@ -13,6 +13,11 @@
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Py Classes](python_classes.md)
 
+# Lean Web Applications
+* [Пишем Java веб-приложение на современном стеке](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-1/)
+* [Пишем Java веб-приложение на современном стеке. Часть 3](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-3/)
+* [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
+
 # NLP Tutorials and Exercises
 * [NLP_with_TensorFlow.md](nlp_with_tf.md)
 * [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
