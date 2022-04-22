@@ -5,8 +5,9 @@
 * [https://neptune.ai/blog/10-nlp-projects](https://neptune.ai/blog/10-nlp-projects)
   * [text-summarizer](https://github.com/edubey/text-summarizer/commit/2458c2f515af62d74a12b03fa4b9d65b88f970d8) 
 
-# Py homework 
+# Py homework / Задачи
 * [Excercises](py_excercises.md) 
+* [Задачи по Python для начинающих от Tproger и GeekBrains](https://tproger.ru/problems/python-3-exercises-for-beginners-geekbrains/)
 
 # Learn Python
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
