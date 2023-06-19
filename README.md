@@ -13,6 +13,11 @@
 * [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Py Classes](python_classes.md)
 
+# Coursera Crash Courses on Py
+* [Coursera Crash Courses on Py LESS THAN 2 hrs](https://www.coursera.org/search?query=Crash%20Course%20on%20Python&index=prod_all_launched_products_term_optimization&isPartOfCourseraPlus=true&productDurationEnum=Less%20Than%202%20Hours)
+* [Py Beginner classes](https://www.coursera.org/search?query=python&index=prod_all_launched_products_term_optimization&isPartOfCourseraPlus=true&productDifficultyLevel=Beginner)
+
+
 # Lean Web Applications
 * [Пишем Java веб-приложение на современном стеке](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-1/)
 * [Пишем Java веб-приложение на современном стеке. Часть 3](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-3/)
