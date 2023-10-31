@@ -1,6 +1,7 @@
 # how to become a Data Scientists 2023.10.30
 * [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho)
 * [How I Would Learn Data Science in 2022 (If I Had to Start Over)](https://www.youtube.com/watch?v=xpIFS6jZbe8)
+  * Listen to the first 2 mins 
 * []()
 
 # py_lessons 2022.01.24
