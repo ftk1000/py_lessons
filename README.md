@@ -2,7 +2,7 @@
 * [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho)
 * [How I Would Learn Data Science in 2022 (If I Had to Start Over)](https://www.youtube.com/watch?v=xpIFS6jZbe8)
   * Listen to the first 2 mins 
-* []()
+* [gentle intro to ML by StatQuest ](https://youtu.be/Gv9_4yMHFhI?si=601PrCYJG-45caYP)
 
 # py_lessons 2022.01.24
 * Jupyter Notebooks lessons: [001](farid_lesson_001.ipynb), [002](farid_lesson_002.ipynb), [003](farid_lesson_003.ipynb)
