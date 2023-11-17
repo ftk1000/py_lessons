@@ -28,3 +28,9 @@ FROM python:3.9
 
 
 docker build -t my-python .
+
+What's Next?
+
+  View a summary of image vulnerabilities and recommendations → docker scout quickview
+
+docker run -it --rm --name my-python-app my-python
