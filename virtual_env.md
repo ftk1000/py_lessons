@@ -20,3 +20,11 @@ On Unix or MacOS, run:
 You should see the terminal / command line interface change slightly after you active the virtual environment, it should now show "openai-env" to the left of the cursor input section. For more details on working wit virtual environments, please refer to the official 
 [Python documentation https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments).
 
+# =========
+
+
+# syntax=docker/dockerfile:1
+FROM python:3.9
+
+
+docker build -t my-python .
