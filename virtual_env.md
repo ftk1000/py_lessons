@@ -1,6 +1,15 @@
 2023.11.17
 
 https://platform.openai.com/docs/quickstart?context=python
+# list all enviromental variables
+
+                    (base)  16:07 paulpaul ~ $  env
+                    GIT_PS1_SHOWDIRTYSTATE=1
+                    TERM_PROGRAM=Apple_Terminal
+                    SHELL=/bin/bash
+                    TERM=xterm-256color
+                    CLICOLOR=1
+
 
 # Setup a virtual environment (optional)
 
