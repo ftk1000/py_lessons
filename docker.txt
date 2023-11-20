@@ -1,6 +1,28 @@
 # from Art Zaiffman 2023.11.17
+(base)  11:32 paulpaul ~ $  ls -1d .*?
 
-> mkdri docker
+
+find . -exec grep -il ejrg {} \;
+
+
+find . -type f -exec grep -il ejrg {} \;
+
+
+find . -exec grep -il ejrg {} \;
+Arthur Zaifman11:26 AM
+find . -type f -name "\.*"
+Arthur Zaifman11:28 AM
+
+
+
+find . -type f -name \.\*  -exec grep -il ejrg {} \;
+
+
+(base)  11:32 paulpaul ~ $  ls -1d .*?
+
+
+
+> mkdir docker
 > cd docker
 
 > touch Dockerfile
@@ -17,6 +39,8 @@ requirements.txt:
 gradio
 
 
+BUILD AN IMAGE
+> docker build -t  my-python-app .
 
 khafifa@txslmacl3394 ~ % docker exec -it my-python-app /bin/bash
 root@b59ac265bb95:/# 
