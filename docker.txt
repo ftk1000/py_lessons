@@ -54,6 +54,10 @@ FROM python:3.9
 COPY ./requirements.txt requirements.txt
 
 RUN pip install -r requirements.txt
+EXPOSE 8888
+CMD [ "jupyter", "notebook", "--allow-root", "--ip=172.21.5.15", "--no-browser" ]
+
+
 
 > touch requirements.txt
 requirements.txt:
