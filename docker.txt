@@ -19,7 +19,7 @@ gradio
 
 
 khafifa@txslmacl3394 ~ % docker exec -it my-python-app /bin/bash
-
+root@b59ac265bb95:/# 
   
 root@cc403b5e0926:/# ls -la
 total 60
