@@ -1,3 +1,20 @@
+# from Art Zaiffman 2023.11.17
+
+> mkdri docker
+> cd docker
+
+> touch Dockerfile
+Dockerfile:
+# syntax=docker/dockerfile:1
+FROM python:3.9
+
+COPY ./requirements.txt requirements.txt
+
+RUN pip install -r requirements.txt
+
+> touch requirements.txt
+requirements.txt:
+gradio
 
 
 
@@ -30,3 +47,13 @@ dr-xr-xr-x  12 root root    0 Nov 17 21:28 sys
 drwxrwxrwt   1 root root 4096 Nov  1 14:29 tmp
 drwxr-xr-x   1 root root 4096 Oct 30 00:00 usr
 drwxr-xr-x   1 root root 4096 Oct 30 00:00 var
+
+
+pip install -r requirements.txt
+
+requirements.txt
+
+total 16
+-rw-r--r--@ 1 khafifa  staff  125 Nov 17 15:42 Dockerfile
+-rw-r--r--@ 1 khafifa  staff    7 Nov 17 15:45 requirements.txt
+khafifa@txslmacl3394 docker % docker build -t my-python .                       
