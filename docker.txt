@@ -2,6 +2,23 @@
 (base)  11:32 paulpaul ~ $  ls -1d .*?
 
 
+
+find . -exec grep -il ejrg {} \;
+Arthur Zaifman11:26 AM
+find . -type f -name "\.*"
+Arthur Zaifman11:28 AM
+find . -type f -name \.\*
+Arthur Zaifman11:51 AM
+EXPOSE 8080
+Arthur Zaifman11:57 AM
+docker run -it --rm --name my-running-app my-python-app
+
+
+docker run -it --rm --name my-running-app my-python-app
+
+
+
+
 find . -exec grep -il ejrg {} \;
 
 
