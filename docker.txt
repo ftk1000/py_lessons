@@ -1,3 +1,7 @@
+
+docker network create --driver=bridge --subnet=172.21.0.0/16 --ip-range=172.21.5.0/24 --gateway=172.21.5.254 -o "com.docker.network.bridge.enable_icc"="true" br0
+
+
 # from Art Zaiffman 2023.11.17
 (base)  11:32 paulpaul ~ $  ls -1d .*?
 
