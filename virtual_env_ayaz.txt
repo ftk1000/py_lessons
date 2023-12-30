@@ -35,7 +35,7 @@
 (base)  16:24 paulpaul ~/CODING/gemini_demo $  
 
 
------ INSTALLING Virtual Environment withon fly_io directory
+----- INSTALLING Virtual Environment within fly_io directory
   278  cd CODING/
   279  ls -la
   280  mkdir fly_io
