@@ -1,5 +1,23 @@
 2023.12.30
 
+-------- SAVE HISTORY
+      (base)  16:28 paulpaul ~/CODING/fly_io $  (main) history > history_logs.txt
+
+      (base)  16:28 paulpaul ~/CODING/fly_io $  (main) whereis python3.10
+      python3.10: /Users/paulpaul/miniforge3/bin/python3.10 /Users/paulpaul/miniforge3/share/man/man1/python3.10.1
+
+-------- WHICH PYTHON DO WE USE ON MAC?
+      (base)  16:36 paulpaul ~/CODING/fly_io $  (main) whereis python3
+      python3: /usr/bin/python3 /Users/paulpaul/miniforge3/share/man/man1/python3.1
+
+      (base)  16:36 paulpaul ~/CODING/fly_io $  (main) python3 --version
+      Python 3.10.12
+
+      (base)  16:36 paulpaul ~/CODING/fly_io $  (main) python3.10 --version
+      Python 3.10.12
+
+
+
 ----- SEARCH FOR ALL CLI entries with 'venv'
 (base)  16:24 paulpaul ~/CODING/gemini_demo $  history | grep venv
   252  source /Users/paulpaul/CODING/fly_io/.venv/bin/activate
