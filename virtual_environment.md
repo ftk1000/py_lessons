@@ -29,9 +29,32 @@ NOTE: these steps are summarized in ./launch-local.sh
             (base)  10:31 paulpaul ~/CODING/gemini_demo $  python --version
                 Python 3.10.12
     
-  * 
+  * (base)  10:38 paulpaul ~/CODING/gemini_demo $  python3.10 -m venv gemini_demo
+    
+            (base)  10:38 paulpaul ~/CODING/gemini_demo $  ls -la gemini_demo/
+            total 8
+            drwxr-xr-x   6 paulpaul  staff  192 Dec 30 10:38 .
+            drwxr-xr-x   3 paulpaul  staff   96 Dec 30 10:38 ..
+            drwxr-xr-x  12 paulpaul  staff  384 Dec 30 10:38 bin
+            drwxr-xr-x   2 paulpaul  staff   64 Dec 30 10:38 include
+            drwxr-xr-x   3 paulpaul  staff   96 Dec 30 10:38 lib
+            -rw-r--r--   1 paulpaul  staff   93 Dec 30 10:38 pyvenv.cfg
 
+           (base)  10:44 paulpaul ~/CODING/gemini_demo $  cat gemini_demo/pyvenv.cfg 
+            home = /Users/paulpaul/miniforge3/bin
+            include-system-site-packages = false
+            version = 3.10.12
+    
+    * Activate virtual env ~/CODING/gemini_demo/gemini_demo
+      
+            (base)  10:45 paulpaul ~/CODING/gemini_demo $  cd gemini_demo/
+            (base)  10:47 paulpaul ~/CODING/gemini_demo/gemini_demo $  source bin/activate
+            (gemini_demo) (base)  10:47 paulpaul ~/CODING/gemini_demo/gemini_demo $  
+   
+    * Exiting virtual env
 
+    (gemini_demo) (base)  10:47 paulpaul ~/CODING/gemini_demo/gemini_demo $  deactivat(base)  10:50 paulpaul ~/CODING/gemini_demo/gemini_demo $
+    
 --------------------
 
 # how to create python virtual environment on mac os
