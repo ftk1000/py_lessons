@@ -50,6 +50,43 @@
   289  code .
 
 
+----- MESSING WITH GIT
+
+  425  cd ..
+  426  cd fly_io/
+  427  git init
+  428  git status
+  429  vim .gitignore
+  430  git status
+  431  git status
+  432  vim .gitignore 
+  433  git add .
+  434  git status
+  435  git commit -m "Initial version"
+  436  git branch
+  437  git checkout --branch version-2-other-hello
+  438  git checkout -b version-2-other-hello
+  439  vim templates/hello.html 
+  440  ./launch-local.sh 
+  441  ga .
+  442  git add .
+  443  git commit -m "Changed hello to hello world"
+  444  git branch
+  445  git checkout main
+  446  ./launch-local.sh 
+  447  cat templates/hello.html 
+  448  git branch
+  449  git diff main version-2-other-hello 
+  450  git status
+  451  git 
+  452  history
+  453  git -a
+  454  git --work-tree
+  455  cd ..
+
+
+
+
 ----- FULL HISTORY (as of 2023.12.30)  history_logs.txt
    32  cd ../..
    33  find . -type f -name "TF*"
