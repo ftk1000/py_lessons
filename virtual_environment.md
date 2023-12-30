@@ -1,5 +1,13 @@
 2023.12.30
 
+# I found three ways to create VIRTUAL ENVIRONMENT
+1) Ayaz:
+     284  python3 -m venv .venv
+     285  source .venv/bin/activate
+3) YT video [YT: How To Create Python Virtual Environments On A Mac](https://www.youtube.com/watch?v=MzuGMSw8la0):
+4) Chat GPT:
+   
+
 # HOW TO RUN fly.io llm_demo app locally
 
 1. (base)  12:48 paulpaul ~/CODING/fly_io $  (main) source .venv/bin/activate
