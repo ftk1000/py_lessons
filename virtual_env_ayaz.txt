@@ -562,7 +562,7 @@
   503  ls -la DOCKER/
   504  mkdir gemini_demo
   505  cd gemini_demo/
-  506  curl   -H 'Content-Type: application/json'   -d '{"contents":[{"parts":[{"text":"Write a story about a magic backpack"}]}]}'   -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAkyT36pfXAWsbmfjH_b8uFrTjCoRWuGFo
+  506  curl   -H 'Content-Type: application/json'   -d '{"contents":[{"parts":[{"text":"Write a story about a magic backpack"}]}]}'   -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=GOOGLE_API_XXXXXXX
   507  pwd
   508  python
   509  python --version
