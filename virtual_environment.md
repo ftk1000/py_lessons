@@ -3,11 +3,35 @@
 # I found three ways to create VIRTUAL ENVIRONMENT
 1) Ayaz:
    
-        284  python3 -m venv .venv
-        285  source .venv/bin/activate
-3) YT video [YT: How To Create Python Virtual Environments On A Mac](https://www.youtube.com/watch?v=MzuGMSw8la0):
-4) Chat GPT:
-   
+        284  > python3 -m venv .venv
+        285  > source .venv/bin/activate
+2) YT video [YT: How To Create Python Virtual Environments On A Mac](https://www.youtube.com/watch?v=MzuGMSw8la0):
+
+        > python3.10 -m venv gemini_demo
+        > source gemini_demo/bin/activate
+    
+3) Chat GPT:
+
+         > pip3 install virtualenv
+         > virtualenv venv
+         > source venv/bin/activate
+
+* NOTE: methods 1) and 2) are the same.
+
+#   what is '-m' flag for in "python -m venv .venv" command?
+* The -m flag in the command python -m venv .venv is used to run library modules as scripts. In this particular command, it's being used to run the venv module that comes with Python, which is responsible for creating virtual environments.
+
+* Here's a breakdown of the command:
+
+            python: This is the Python interpreter. You're telling your system to use Python to execute some command or script.
+            
+            -m: This flag tells Python to run a module as a script. Instead of running a file or script directly, it locates the module you specify and runs it as if it were a script. This is useful for modules that include a script entry point.
+            
+            venv: This is the Python module that's being run with -m. The venv module is used to create virtual environments. It's included in the standard library of Python 3.
+            
+            .venv: This is the name of the directory where the virtual environment will be created. It's a common convention to use .venv, but you can name it anything.
+
+* In summary, python -m venv .venv is a command to create a new virtual environment in a directory named .venv using Python's built-in venv module. The -m flag is crucial because it allows you to run a module that's part of the standard library (or installed in the current environment) as a script, enabling functionalities like creating virtual environments.
 
 # HOW TO RUN fly.io llm_demo app locally
 
