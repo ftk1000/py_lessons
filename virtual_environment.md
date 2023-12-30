@@ -1,7 +1,19 @@
 2023.12.30
 
+# HOW TO RUN fly.io llm_demo app locally
 
+1. (base)  12:48 paulpaul ~/CODING/fly_io $  (main) source .venv/bin/activate
+2. (.venv) (base)  09:43 paulpaul ~/CODING/fly_io $  (main) flask run --debug
+3. CMD+click on  * Running on http://127.0.0.1:5000
+4. http://127.0.0.1:5000/llm_demo
 
+NOTE: these steps are summarized in ./launch-local.sh
+
+5. Once done, kill the app and get out of virtual env:
+* ^C(.venv) (base)  09:50 paulpaul ~/CODING/fly_io $  (main) deactivate
+* > (base)  09:50 paulpaul ~/CODING/fly_io $  (main) 
+
+--------------------
 
 # how to create python virtual environment on mac os
 
