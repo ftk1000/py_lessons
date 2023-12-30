@@ -15,6 +15,25 @@ NOTE: these steps are summarized in ./launch-local.sh
 
 --------------------
 
+* [YT: How To Create Python Virtual Environments On A Mac](https://www.youtube.com/watch?v=MzuGMSw8la0)
+  * (base)  10:31 paulpaul ~/CODING/gemini_demo $  pwd
+    
+            /Users/paulpaul/CODING/gemini_demo
+    
+  * check py version(s) we have
+    
+            (base)  10:07 paulpaul ~/CODING/gemini_demo $  python
+            Python 3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:41:52) [Clang 15.0.7 ] on darwin
+            Type "help", "copyright", "credits" or "license" for more information.
+            >>> exit()
+            (base)  10:31 paulpaul ~/CODING/gemini_demo $  python --version
+                Python 3.10.12
+    
+  * 
+
+
+--------------------
+
 # how to create python virtual environment on mac os
 
 Creating a Python virtual environment on macOS is a straightforward process. Here's a step-by-step guide:
