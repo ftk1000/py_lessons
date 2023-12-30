@@ -64,28 +64,20 @@ Creating a Python virtual environment on macOS is a straightforward process. Her
 * Step 1: Ensure Python is Installed
 macOS comes with Python installed, but it's usually a good idea to install a newer version. You can check your Python version by running:
 
-      bash
-      Copy code
       python3 --version
 
 If you need to install or update Python, you can download it from the official Python website or use a package manager like Homebrew:
 
-      bash
-      Copy code
       brew install python
 
 * Step 2: Install virtualenv
 virtualenv is a tool to create isolated Python environments. While Python 3.3 and later includes the venv module to create virtual environments, virtualenv provides more flexibility. Install it using pip:
 
-      bash
-      Copy code
       pip3 install virtualenv
 
 * Step 3: Create a Virtual Environment
 Navigate to the directory where you want to create your virtual environment and run:
 
-      bash
-      Copy code
       virtualenv venv
 
 Here, venv is the name of the virtual environment. You can choose any name you prefer.
@@ -94,8 +86,6 @@ Here, venv is the name of the virtual environment. You can choose any name you p
 
 To start using the virtual environment, you need to activate it. On macOS, you do this with the following command:
 
-      bash
-      Copy code
       source venv/bin/activate
 
 After activation, your command line prompt will usually change to show the name of the activated environment.
@@ -104,8 +94,6 @@ After activation, your command line prompt will usually change to show the name 
 
 Whenever you're done working in the virtual environment, you can deactivate it by running:
 
-      bash
-      Copy code
       deactivate
 
 * Additional Notes: When the virtual environment is activated, any Python packages you install using pip will be placed in the virtual environment's directory, isolated from the global Python installation.
@@ -130,47 +118,39 @@ Creating a Python virtual environment on macOS is straightforward. Here's how yo
 
 macOS comes with Python, but it's often an older version. To check your Python version:
 
-```bash
+```
 python3 --version
 To install or update Python, download it from the Python website or use Homebrew:
 
-bash
-Copy code
 brew install python
 Step 2: Install virtualenv
 virtualenv is a tool to create isolated Python environments. Install it using pip:
 
-bash
-Copy code
 pip3 install virtualenv
 Step 3: Create a Virtual Environment
 Navigate to your project directory and create a virtual environment:
 
-bash
-Copy code
 virtualenv venv
 venv is the virtual environment name, but you can choose any name.
 
 Step 4: Activate the Virtual Environment
 Activate your virtual environment:
 
-bash
-Copy code
 source venv/bin/activate
 Your command line prompt will change to show the activated environment.
 
 Step 5: Deactivate the Virtual Environment
 To stop using the virtual environment:
 
-bash
-Copy code
 deactivate
+
 Additional Notes
+
 Python packages installed in the virtual environment are isolated from the global Python installation.
 You can create the virtual environment in any directory, but it's common to create it within your Python project for organization.
 Virtual environments are tied to specific Python versions. Use tools like pyenv to manage multiple Python versions.
+
 vbnet
-Copy code
 
 This Markdown formatted guide can be used in documentation or README files for better readability and formatting on platforms that support Markdown, like GitHub or Bitbucket.
 
