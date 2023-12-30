@@ -1,0 +1,535 @@
+2023.12.30
+
+----- SEARCH FOR ALL CLI entries with 'venv'
+(base)  16:24 paulpaul ~/CODING/gemini_demo $  history | grep venv
+  252  source /Users/paulpaul/CODING/fly_io/.venv/bin/activate
+  284  python3 -m venv .venv
+  285  source .venv/bin/activate
+  415  source .venv/bin/activate
+  418  source .venv/bin/activate
+  511  python3.10.12 -m .venv gemini_demo
+  512  python3.10.12 -m venv gemini_demo
+  513  python3.10 -m venv gemini_demo
+  517  less gemini_demo/pyvenv.cfg 
+  518  cat gemini_demo/pyvenv.cfg 
+  528  history | gerp venv
+  529  history | grep venv
+(base)  16:24 paulpaul ~/CODING/gemini_demo $  
+
+
+----- INSTALLING Virtual Environment withon fly_io directory
+  278  cd CODING/
+  279  ls -la
+  280  mkdir fly_io
+  281  cd fly_io/
+  282  fly launch
+  283  fly launch --help
+  284  python3 -m venv .venv
+  285  source .venv/bin/activate
+  286  python -m pip install Django
+  287  python -m pip uninstall Django
+  288  python -m pip install Flask
+  289  code .
+
+
+----- FULL HISTORY (as of 2023.12.30)  history_logs.txt
+   32  cd ../..
+   33  find . -type f -name "TF*"
+   34  pwd
+   35  ld
+   36  ls
+   37  cd BUAN6382_ADL_2023_09_class/
+   38  ls
+   39  cd POOL_PROBLEMS/
+   40  ls
+   41  touch TF_20_Attn_is_all_you_need.txt
+   42  touch chatGPT_instructions.txt
+   43  touch TF_20_Lang_n_Transl_models.txt
+   44  ls
+   45  ls TF* -l
+   46  ls -la TF* 
+   47  touch TF_20_Seq2Seq.txt
+   48  touch TF_20_LSTM.txt
+   49  touch TF_20_RNN.txt
+   50  touch TF_20_Embedding.txt
+   51  touch TF_20_Vectorization.txt
+   52  touch TF_20_CNN.txt
+   53  touch TF_20_CNN_v2.txt
+   54  touch TF_20_UnivWorkFlow_ML.txt
+   55  touch TF_20_Fundamentals_ML.txt
+   56  touch TF_10_NeuralStyleXfer.txt
+   57  docker compose build
+   58  $PATH
+   59  cd CODING/
+   60  cd chat_gpt/
+   61  code .
+   62  docker run -it --export 8777:8777 --rm docker-openai /bin/bash
+   63  ls
+   64  tuch test3_pool.txt
+   65  ls -la
+   66  ls -latr
+   67  cat TF_20_RNN.txt TF_20_LSTM.txt TF_20_Seq2Seq.txt TF_20_Lang_n_Transl_models.txt TF_20_Attn_is_all_you_need.txt > test_03.txt 
+   68  ls -latr
+   69  tuch test3_25qs.txt
+   70  touch test3_25qs.txt
+   71  touch test3_25qs_only.txt
+   72  docker run -it --rm python:3.10 /bin/bash
+   73  docker compose up
+   74  docker compose build
+   75  docker compose up
+   76  docker compose build
+   77  pwd
+   78  cd
+   79  ls -l
+   80  cd iCloudDocs
+   81  ls -l
+   82  cd BUAN6382_ADL_2024_01_class/
+   83  touch key_dates.txt
+   84  code key_dates.txt 
+   85  pwd
+   86  ls
+   87  docker network ps
+   88  clear
+   89  ls
+   90  ls -la
+   91  less docker-compose.yml 
+   92  cd 
+   93  cd CODING/DOCKER/langchaindemo/
+   94  docker exec
+   95  docker ps 
+   96  docker inspect 7ba651507712
+   97  env
+   98  env
+   99  docker images 
+  100  docker inspect 5fa42826eed5
+  101  docker compose down
+  102  ls -ltra
+  103  docker compose down
+  104  docker compose up
+  105  clear
+  106  docker compose up
+  107  docker ps -a
+  108  docker container ls
+  109  clear
+  110  docker container ls
+  111  docker stop a111a08b0d95
+  112  docker rm a111a08b0d95
+  113  docker container ls
+  114  docker image ls
+  115  docker rm a30ded4b0af8
+  116  docker image ls
+  117  docker compose down
+  118  docker compose down
+  119  docker compose up
+  120  docker compose up
+  121  docker compose up
+  122  docker compose up
+  123  docker compose up
+  124  docker compose up
+  125  docker compose up
+  126  docker compose up
+  127  docker compose up
+  128  cd
+  129  cd CODING/DOCKER/
+  130  mkdir env_var_greet
+  131  cd env_var_greet/
+  132  less ../langchaindemo/Dockerfile 
+  133  code Dockerfile
+  134  pwd
+  135  docker build -t demo -f Dockerfile .
+  136  ls
+  137  touch greeting.sh
+  138  docker build -t demo -f Dockerfile .
+  139  docker run --rm demo
+  140  docker ps
+  141  docker images
+  142  cd ..\..
+  143  cd ../..
+  144  ls
+  145  cd google_GEN_AI/
+  146  ls
+  147  cd fwdsaidfiles/
+  148  ls
+  149  pwd
+  150  env
+  151  cd
+  152  cd CODING/
+  153  ls
+  154  cd DOCKER/langchaindemo/
+  155  clear
+  156  docker ps -a
+  157  docker ps -a
+  158  docker network ls
+  159  cat Dockerfile 
+  160  docker compose build
+  161  docker ps -a
+  162  docker images -a
+  163  docker compose up
+  164  clear
+  165  docker compose build
+  166  docker compose up
+  167  docker ps
+  168  docker kill b1d01cc78f29
+  169  docker ps
+  170  docker ps -a
+  171  docker rm b1d01cc78f29
+  172  docker stop b1d01cc78f29
+  173  docker rm b1d01cc78f29
+  174  docker images
+  175  docker images rm 5fa42826eed5
+  176  docker images del 5fa42826eed5
+  177  docker images --help
+  178  clear
+  179  docker compose build
+  180  docker ps -a
+  181  docker 
+  182  docker ps
+  183  docker ps -a
+  184  docker stop 0ed64fa7b1e7
+  185  docker rm 0ed64fa7b1e7
+  186  docker ps -a
+  187  docker ps 
+  188  docker 0ed64fa7b1e7
+  189  docker 0ed64fa7b1e7 rm
+  190  docker compose build
+  191  docker compose up
+  192  docker image ls
+  193  docker rm image a30ded4b0af8
+  194  docker image rm a30ded4b0af8
+  195  docker image ls
+  196  clear
+  197  docker image ls
+  198  docker compose build
+  199  docker compose up
+  200  docker compose up
+  201  docker compose down
+  202  docker compose down
+  203  docker compose down
+  204  docker compose down
+  205  docker compose down
+  206  ls -la
+  207  ls -la docs
+  208  less docs/.DS_Store 
+  209  ls -la docs
+  210  chmod 664 ./docs/
+  211  ls -l
+  212  ls -la docs
+  213  ls -la docs
+  214  chmod 764 ./docs/
+  215  ls -la docs
+  216  chmod 664 .DS_Store 
+  217  ls -la docs
+  218  docker compose down
+  219  docker compose down
+  220  ls
+  221  ls docs
+  222  ls docs/chroma -l
+  223  ls -l
+  224  tar zcvf langchaindemo.tar.gz Dockerfile docker-compose.yml requirements.txt question_answering.ipynb papers/main_notes.pdf pdf_data_chunk_sz.ipynb  
+  225  ls
+  226  ls -ltra
+  227  ls -l
+  228  cd doc
+  229  ls -l
+  230  cd docs
+  231  ls -l
+  232  ls -l
+  233  ls -l chroma2/
+  234  pwd
+  235  ls -latr
+  236  file .DS_Store 
+  237  mv .DS_Store DS_Store_backup
+  238  ls -l
+  239  docker compose down
+  240  pwd
+  241  docker ps -a
+  242  docker stop 0e
+  243  docker ps -a
+  244  docker compose up
+  245  docker compose up
+  246  docker compose up
+  247  docker compose up
+  248  docker compose up
+  249  docker compose up
+  250  docker compose up
+  251  docker compose up
+  252  source /Users/paulpaul/CODING/fly_io/.venv/bin/activate
+  253  flask run --debug
+  254  flask run --debug --help
+  255  echo $OPENAI_API_KEY
+  256  pip install openai lanchain
+  257  pip install openai langchain
+  258  flask run --debug
+  259  flask run --debug
+  260  flask run --debug
+  261  pip install python-dotenv
+  262  flask run --debug
+  263  brew install flyctl
+  264  brew install flyctl
+  265  brew update
+  266  git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+  267  GIT_VERBOSE=1 git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+  268  curl -L https://fly.io/install.sh | sh
+  269  curl -L https://google.com
+  270  curl -L https://fly.io/install.sh | sh
+  271  export FLYCTL_INSTALL="/Users/paulpaul/.fly"
+  272  export PATH="$FLYCTL_INSTALL/bin:$PATH"
+  273  vim ~/.bash_profile
+  274  fly
+  275  fly auth login
+  276  ls
+  277  ls -la
+  278  cd CODING/
+  279  ls -la
+  280  mkdir fly_io
+  281  cd fly_io/
+  282  fly launch
+  283  fly launch --help
+  284  python3 -m venv .venv
+  285  source .venv/bin/activate
+  286  python -m pip install Django
+  287  python -m pip uninstall Django
+  288  python -m pip install Flask
+  289  code .
+  290  python -m pip install gunicorn
+  291  pip freeze > requirements.txt
+  292  fly launch
+  293  fly launch
+  294  fly deploy
+  295  fly scale
+  296  fly scale count
+  297  fly scale count 1
+  298  fly set secret OPENAI_API_KEY=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
+  299  fly secret
+  300  fly secrets
+  301  fly secrets set OPENAI_API_KEY=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
+  302  ls -la
+  303  pip freeze > requirements.txt
+  304  fly deploy
+  305  docker compose down 
+  306  docker ps
+  307  docker compose down
+  308  docker ps
+  309  ls -l
+  310  rm -fr *
+  311  ls -la
+  312  docker compose down
+  313  history
+  314  docker compose down
+  315  docker compose down
+  316  ls -la
+  317  docker compose down
+  318  docker compose down
+  319  ls -l
+  320  ls .. -l
+  321  mv ../requirements.txt ../requirements.backup 
+  322  less ../requirements.txt 
+  323  less ../requirements.backup 
+  324  ls -l
+  325  rm -rf *
+  326  ls -l
+  327  env
+  328  flask run
+  329  ls -l
+  330  cp qa.html qa2.html
+  331  pwd
+  332  ls
+  333  cp templates/qa.html templates/qa2.html
+  334  docker build -t mY-flask_app .
+  335  docker build -t myflask_app .
+  336  docker run -p 4000:5000 myflask_app
+  337  docker images ps
+  338  docker images -l
+  339  docker ps -a
+  340  docker build -t myflask_app .
+  341  docker run -p 4000:5000 myflask_app
+  342  docker build -t myflask_app .
+  343  docker run -p 4000:5000 myflask_app
+  344  docker build -t myflask_app .
+  345  docker run -p 4000:5000 myflask_app
+  346  docker image -help
+  347  docker image --help
+  348  docker container --help
+  349  docker container kill
+  350  docker container kill --help
+  351  docker ps -a
+  352  docker container kill d6
+  353  docker image prune --help
+  354  docker myflask_app prune
+  355  docker container kill 07
+  356  docker container delete
+  357  docker container rm *
+  358  ls
+  359  docker container rm 07*
+  360  docker container rm 07
+  361  docker container rm d6
+  362  docker image prune d4
+  363  docker image rm d4
+  364  docker image rm db
+  365  docker build -t myflask_app .
+  366  docker run -p 4000 myflask_app
+  367  docker run -p 4000:5000 myflask_app
+  368  ls -ltra
+  369  cd ..
+  370  docker pa -a
+  371  docker pa a
+  372  docker ps a
+  373  docker ps -a
+  374  docker container mr 5d
+  375  docker container rm 5d
+  376  docker ps -a
+  377  docker container rm a8
+  378  docker ps -a
+  379  docker images ps
+  380  docker images -a
+  381  docker image rm 7e
+  382  docker images -a
+  383  ls
+  384  docker build -t myflask_app .
+  385  docker run -p 4000:5000 myflask_app
+  386  docker build -t myflask_app_v001 .
+  387  docker run -p 4000:5000 myflask_app_001
+  388  pwd
+  389  clear
+  390  cd ~/CODING/
+  391  ls
+  392  cd DOCKER/
+  393  ls
+  394  ls -ltra
+  395  mkdir my_flask_app
+  396  cd my_flask_app/
+  397  code .
+  398  pwd
+  399  cd
+  400  cd CODING/DOCKER/
+  401  ls
+  402  cd langchaindemo/
+  403  ls
+  404  flask run -debug
+  405  ls
+  406  cd ../..
+  407  cd DOCKER/langchaindemo/
+  408  ls
+  409  ls -a
+  410  cd ..
+  411  cd ..
+  412  cd fly_io/
+  413  ls
+  414  ls -la
+  415  source .venv/bin/activate
+  416  python
+  417  python
+  418  source .venv/bin/activate
+  419  python
+  420  flask run --debug
+  421  deactivate
+  422  vim launch-local.sh
+  423  chmod +x launch-local.sh 
+  424  ./launch-local.sh 
+  425  cd ..
+  426  cd fly_io/
+  427  git init
+  428  git status
+  429  vim .gitignore
+  430  git status
+  431  git status
+  432  vim .gitignore 
+  433  git add .
+  434  git status
+  435  git commit -m "Initial version"
+  436  git branch
+  437  git checkout --branch version-2-other-hello
+  438  git checkout -b version-2-other-hello
+  439  vim templates/hello.html 
+  440  ./launch-local.sh 
+  441  ga .
+  442  git add .
+  443  git commit -m "Changed hello to hello world"
+  444  git branch
+  445  git checkout main
+  446  ./launch-local.sh 
+  447  cat templates/hello.html 
+  448  git branch
+  449  git diff main version-2-other-hello 
+  450  git status
+  451  git 
+  452  history
+  453  git -a
+  454  git --work-tree
+  455  cd ..
+  456  ls -l
+  457  docker ps -a
+  458  docker container stop 11
+  459  docker container rm 11
+  460  docker image -a
+  461  docker ps -a
+  462  docker images ps -a
+  463  docker images ps 
+  464  docker images -a
+  465  docker image rm 77
+  466  docker images -a
+  467  ls
+  468  cd DOCKER/
+  469  ls -l
+  470  cd my_flask_app/
+  471  ls
+  472  history
+  473  cd ../../fly_io/
+  474  code .
+  475  ls -la
+  476  mkdir myflask_app_v003
+  477  cp requirements.txt myflask_app_v003/
+  478  ls
+  479  ls -l
+  480  cp templates/ myflask_app_v003/
+  481  ls -l
+  482  cp app.py myflask_app_v003/
+  483  cp llm_demo.py  myflask_app_v003/
+  484  ls -l
+  485  less Procfile 
+  486  mv myflask_app_v003/ ../DOCKER/
+  487  cd ../DOCKER/
+  488  ls -l
+  489  cd myflask_app_v003
+  490  code .
+  491  ls -la
+  492  mkdir templates
+  493  cp ../../fly_io/templates/* templates/
+  494  ls -l templates/
+  495  ls -l ../my_flask_app/
+  496  cp ../my_flask_app/Dockerfile .
+  497  pwd
+  498  clear
+  499  ls -l
+  500  clear
+  501  cd CODING/
+  502  ls -l
+  503  ls -la DOCKER/
+  504  mkdir gemini_demo
+  505  cd gemini_demo/
+  506  curl   -H 'Content-Type: application/json'   -d '{"contents":[{"parts":[{"text":"Write a story about a magic backpack"}]}]}'   -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAkyT36pfXAWsbmfjH_b8uFrTjCoRWuGFo
+  507  pwd
+  508  python
+  509  python --version
+  510  pwd
+  511  python3.10.12 -m .venv gemini_demo
+  512  python3.10.12 -m venv gemini_demo
+  513  python3.10 -m venv gemini_demo
+  514  ls -l
+  515  ls -la
+  516  ls -la gemini_demo/
+  517  less gemini_demo/pyvenv.cfg 
+  518  cat gemini_demo/pyvenv.cfg 
+  519  cd gemini_demo/
+  520  source bin/activate
+  521  deactivate
+  522  pip freeze
+  523  cd ..
+  524  whereis python3.10
+  525  ls -la /Users/paulpaul/miniforge3/bin/
+  526  ls -la /Users/paulpaul/miniforge3/bin/py*
+  527  history
+  528  history | gerp venv
+  529  history | grep venv
+  530  cd ../fly_io/
+  531  history > history_logs.txt
