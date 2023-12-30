@@ -317,10 +317,10 @@
   295  fly scale
   296  fly scale count
   297  fly scale count 1
-  298  fly set secret OPENAI_API_KEY=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
+  298  fly set secret OPENAI_API_KEY=sk-XXXXXXXX
   299  fly secret
   300  fly secrets
-  301  fly secrets set OPENAI_API_KEY=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
+  301  fly secrets set OPENAI_API_KEY=sk-XXXXXXXX
   302  ls -la
   303  pip freeze > requirements.txt
   304  fly deploy
