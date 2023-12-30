@@ -2,6 +2,7 @@
 
 # I found three ways to create VIRTUAL ENVIRONMENT
 1) Ayaz:
+   
      284  python3 -m venv .venv
      285  source .venv/bin/activate
 3) YT video [YT: How To Create Python Virtual Environments On A Mac](https://www.youtube.com/watch?v=MzuGMSw8la0):
