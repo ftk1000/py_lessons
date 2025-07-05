@@ -1,5 +1,5 @@
 # AI/ML Carrier shift 2025.07.05
-* https://docs.google.com/presentation/d/10mNz-WXY5TYVAyEaF4KClSoUIN1GC9EBpgMpb_7DXoU/edit?usp=sharing
+* [Lec 7 - NLP. Generative text models](https://docs.google.com/presentation/d/10mNz-WXY5TYVAyEaF4KClSoUIN1GC9EBpgMpb_7DXoU/edit?usp=sharing)
 
 # how to become a Data Scientists 2023.10.30
 * [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho)
