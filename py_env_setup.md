@@ -8,6 +8,8 @@
 
 ------------- CLAUDE AI Sonet 4.5
 
+* https://claude.ai/chat/ba49fc7a-547e-4532-ac4c-71bbdc5d83cd
+
 Great question! Let me break down the key differences between conda and Python virtual environments.
 
 ## The Core Distinction
