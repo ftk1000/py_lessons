@@ -2,6 +2,8 @@
 
 * https://chatgpt.com/c/690fa7c2-62ac-8325-8d46-4aa176b29417
 
+## Prompt: conda and python vitual environments. How do they differ?
+
   Great question! Here’s the clean, Mac-focused rundown.
 
 # Conda vs Python virtual environments (venv/virtualenv)
